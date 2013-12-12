@@ -1,4 +1,11 @@
-JMiniShell
-==========
+use makefile
+The name of file is ‘JMiniShell’
 
-MiniShell created by Jereneal
+operating functions are described below:
+ - Can handle file path
+ - Alias
+ - Environment Variable
+ - Redirection
+ - Multiple commands using ‘;’
+ - Pipe
+ - etc.
